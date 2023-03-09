@@ -1,5 +1,8 @@
 # AppleScript-Install-Audio-Plugin
-A simple AppleScript workflow to install audio plugins directly from Finder
+A simple AppleScript workflow to install audio plugins directly from Finder. Currently supports VST3, VST, AU, LV2 and CLAP.
+
+
+<img width="637" alt="Screenshot 2023-03-09 at 12 39 35" src="https://user-images.githubusercontent.com/44585538/224012454-18a21915-e7d2-43eb-b84b-0f7ddd3f5330.png">
 
 
 You can download a pre-built workflow from the release section, which you can install by clicking on it.
